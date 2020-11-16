@@ -1,0 +1,8 @@
+__pychche__/
+venv/
+test.sqlite/
+test.sqlite
+static/
+templates/
+.idea/
+
